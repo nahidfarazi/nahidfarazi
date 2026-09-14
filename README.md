@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Nahid Farazi</h2>
+<h1>Nahid Farazi</h1>
 <h2>Go Developer · Backend Engineering · Systems </h2> 
 
 Building software with Go, learning how systems work, and turning ideas into useful tools.
