@@ -1,61 +1,210 @@
-<img src="assets/hero.svg" width="100%" alt="neur0map — cybersecurity and network engineer, creator of Ryoku. For the sake of power and beauty." />
+<div align="center">
+Nahid Farazi
+Go Developer · Backend Engineering · Systems · Cybersecurity
+
+Building software with Go, learning how systems work, and turning ideas into useful tools.
 
 <br/>
 
-### 力 &nbsp; whoami
-
-<img align="right" width="300" src="assets/cyber-oni.webp" alt="A marble warrior bust whose irezumi is rendered as glowing vermillion and teal network traces, cracked and mended in gold kintsugi before a single red sun." />
-
-Software &amp; engineer. I take systems apart to learn how they
-break, then build them back sharper. 
-I live close to the wire: packets, protocols, and the machines that route them;
 
 
-- **Recon &amp; offense** &nbsp;—&nbsp; reconnaissance, network security, the quiet craft of not being seen
-- **Systems &amp; shells** &nbsp;—&nbsp; hand-built desktops, hand-written Quickshell, no framework tax
-- **Local-first** &nbsp;—&nbsp; tooling that runs on your machine, on your terms
-
-<br clear="right"/>
 
 
-### 力 &nbsp; Nahid Farazi
 
-![Ryoku — a colonnade of classical Greek marble columns interwoven with Japanese torii gates, receding through red mist toward a single vermillion sun, veined with molten-gold kintsugi.](assets/torii-band.webp)
 
-**[Ryoku](https://ryoku.dev)** is an opinionated, premium Arch workstation:
-classical beauty carrying warrior power, cracked and mended in gold, shot on
-black. The Hyprland config is Lua, the shell is Quickshell / QML, the installer
-and tooling are Go. It ships as signed packages.
 
-> *For the sake of power and beauty.*
+</div>
+whoami
 
-**[ryoku.dev](https://ryoku.dev)** &nbsp;·&nbsp; [Docs](https://docs.ryoku.dev) &nbsp;·&nbsp; [Source](https://github.com/neur0map/ryoku-arch) &nbsp;·&nbsp; [Discord](https://discord.gg/8KjBmUEyKA) &nbsp;·&nbsp; [r/RyokuArch](https://www.reddit.com/r/RyokuArch/)
+I'm Nahid Farazi, a developer focused on building my career around Go and backend engineering.
 
-<img width="49%" src="assets/ryoku-desktop.webp" alt="Ryoku desktop with widgets" /> &nbsp; <img width="49%" src="assets/ryoku-deck.webp" alt="Ryoku control deck" />
+I enjoy understanding what happens underneath the abstractions—how programs communicate, how servers work, how networks move data, and how software can be made reliable and efficient.
 
-### 力 &nbsp; selected work
+My current focus is becoming a strong Go developer and building real-world projects that improve my understanding of backend systems, APIs, networking, concurrency, and distributed software.
 
-**[glazepkg](https://github.com/neur0map/glazepkg)** &nbsp; `Go` &nbsp; [![glazepkg stars](https://img.shields.io/github/stars/neur0map/glazepkg?style=flat-square&labelColor=100d08&color=e2342a)](https://github.com/neur0map/glazepkg)
-<br/>The official RyokuArch package manager. Every package you have installed, from every source, in one clear place.
+I'm also interested in cybersecurity and low-level programming, which naturally pushes me toward understanding systems rather than only using them.
 
-**[prowl-agent](https://github.com/neur0map/prowl-agent)** &nbsp; `Go` &nbsp; [![prowl-agent stars](https://img.shields.io/github/stars/neur0map/prowl-agent?style=flat-square&labelColor=100d08&color=e2342a)](https://github.com/neur0map/prowl-agent)
-<br/>A local-first config-intelligence backend. It lets coding agents read a ricing / dotfiles setup over MCP — what owns each file, how to reload it, what breaks if you touch it.
+        LEARN
+          ↓
+      UNDERSTAND
+          ↓
+        BUILD
+          ↓
+        BREAK
+          ↓
+       IMPROVE
 
-### 力 &nbsp; stack
+current.focus()
+package main
 
-[![Go](https://img.shields.io/badge/Go-0a0805?style=for-the-badge&logo=go&logoColor=e2342a&labelColor=0a0805)](https://go.dev)
-[![HTML](https://img.shields.io/badge/HTML-0a0805?style=for-the-badge&logo=html5&logoColor=e2342a&labelColor=0a0805)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-0a0805?style=for-the-badge&logo=css&logoColor=e2342a&labelColor=0a0805)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-0a0805?style=for-the-badge&logo=javascript&logoColor=e2342a&labelColor=0a0805)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+import "fmt"
 
-### 力 &nbsp; connect
+func main() {
+    focus := []string{
+        "Go",
+        "Backend Development",
+        "REST APIs",
+        "Networking",
+        "Concurrency",
+        "Linux",
+        "System Programming",
+        "Cybersecurity",
+    }
 
-[![GitHub](https://img.shields.io/badge/GitHub-100d08?style=for-the-badge&logo=github&logoColor=e2342a&labelColor=0a0805)](https://github.com/neur0map)
-[![X](https://img.shields.io/badge/@neur0map-100d08?style=for-the-badge&logo=x&logoColor=e2342a&labelColor=0a0805)](https://x.com/neur0map)
-[![Discord](https://img.shields.io/badge/Discord-100d08?style=for-the-badge&logo=discord&logoColor=e2342a&labelColor=0a0805)](https://discord.gg/8KjBmUEyKA)
+    for _, skill := range focus {
+        fmt.Println(skill)
+    }
+}
 
----
+What I'm working toward
+Becoming highly proficient with Go
+Building production-quality backend applications
+Understanding Go concurrency and networking deeply
+Designing clean and maintainable APIs
+Learning databases and backend architecture
+Building CLI and developer tools
+Improving my Linux and systems knowledge
+Exploring cybersecurity from a programming perspective
+Contributing to open-source projects
+tech.stack
+Primary
 
-<sub>Art forged with `fal-ai/nano-banana-pro` and mended by hand. Built in the open, with kansha (感謝).</sub>
+Also know
 
-<sub>力</sub>
+
+
+
+
+
+Exploring
+
+
+
+
+
+
+go
+
+Go is the language I want to build my career around.
+
+I like Go because it sits in a sweet spot between simplicity, performance, concurrency, networking, and systems programming.
+
+I'm especially interested in:
+
+Go
+├── Goroutines & Channels
+├── HTTP Servers
+├── REST APIs
+├── TCP / UDP Networking
+├── CLI Applications
+├── Concurrent Systems
+├── Database Applications
+├── Microservices
+├── Testing
+└── Developer Tooling
+
+
+My goal isn't just to learn the syntax.
+
+I want to understand how to build reliable software with it.
+
+projects
+
+I'm using projects as a way to turn what I learn into practical experience.
+
+🔹 Go Backend Projects
+
+Building APIs and backend services with Go to understand:
+
+HTTP
+routing
+authentication
+databases
+concurrency
+caching
+error handling
+testing
+API design
+🔹 Systems & Networking
+
+Exploring lower-level concepts through code:
+
+TCP/UDP
+sockets
+network protocols
+HTTP internals
+Linux processes
+system calls
+concurrent programming
+🔹 Developer Tools
+
+I enjoy building small tools that solve real problems.
+
+The goal is simple:
+
+If I can automate it, I should probably build it.
+
+learning.path
+                ┌───────────────┐
+                │      Go       │
+                └───────┬───────┘
+                        │
+          ┌─────────────┼─────────────┐
+          ↓             ↓             ↓
+       Backend       Networking     Systems
+          │             │             │
+          ↓             ↓             ↓
+        APIs         TCP / UDP       Linux
+          │             │             │
+          └─────────────┼─────────────┘
+                        ↓
+                  Distributed
+                    Systems
+                        │
+                        ↓
+                 Strong Backend
+                   Engineer
+
+why go?
+
+I don't want to learn a dozen languages just to put them on a resume.
+
+I want to become really good at building things.
+
+Go gives me a practical path toward that:
+
+Simple language
+Excellent standard library
+Strong concurrency primitives
+Great networking support
+Fast compilation
+Easy deployment
+Excellent fit for backend and infrastructure software
+
+I'm choosing depth over collecting technologies.
+
+github
+
+Most of my GitHub is going to be a record of the things I'm learning and building.
+
+Some projects will be polished.
+
+Some will be experiments.
+
+Some will probably break.
+
+That's part of the process.
+
+Build → Break → Debug → Learn → Improve → Repeat
+
+connect
+<div align="center">
+
+</div>
+<div align="center">
+fmt.Println("Keep building.")
+<br/>
+
+⭐ If you find something useful here, feel free to star it.
+
+</div>
