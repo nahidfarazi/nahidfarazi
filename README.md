@@ -7,9 +7,11 @@ Building software with Go, learning how systems work, and turning ideas into use
 <br/>
 
 </div>
-whoami
 
-<p align="center">I'm Nahid Farazi, a developer focused on building my career around Go and backend engineering.
+
+<div align="center">
+  <h3>whoami</h3>
+I'm Nahid Farazi, a developer focused on building my career around Go and backend engineering.
 
 I enjoy understanding what happens underneath the abstractions—how programs communicate, how servers work, how networks move data, and how software can be made reliable and efficient.
 
@@ -17,7 +19,7 @@ My current focus is becoming a strong Go developer and building real-world proje
 
 I'm also interested in cybersecurity and low-level programming, which naturally pushes me toward understanding systems rather than only using them.
 
-</p>
+</div>
 <div align="center">
 
 
