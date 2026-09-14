@@ -1,6 +1,6 @@
 <div align="center">
-Nahid Farazi
-Go Developer · Backend Engineering · Systems 
+### Nahid Farazi
+### Go Developer · Backend Engineering · Systems 
 
 Building software with Go, learning how systems work, and turning ideas into useful tools.
 
